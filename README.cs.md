@@ -20,9 +20,12 @@ V polním měřítku má třílistá turbína blade-pass frekvenci 0,700 Hz tam,
 citované review funguje, a jádro transformátoru na 50 Hz nemá žádnou linku na
 61,72 Hz, kterou by šlo ladit.
 
-Je to první z jedenácti autorových depositů bez hyperkomplexní algebry a první
-s téměř celou reálnou bibliografií; §1 textu vypisuje, co je správně, ještě než
-cokoli dalšího.
+Z autorova hyperkomplexního slovníku tu není nic a je to první deposit s téměř
+celou reálnou bibliografií; §1 textu vypisuje, co je správně, ještě než cokoli
+dalšího. (§1 dostala 9. 10. opravu: tvrdila prvenství v tom, že ten slovník
+chybí, a census nad všemi šestnácti záznamy v
+[`reference-audit`](https://github.com/karagos01/reference-audit) to vyvrátil —
+COBAR a Momentum Drive ze září ty termíny nemají taky.)
 
 > Komentáře v kódu a výpisy skriptů jsou anglicky. Anglická verze textu je
 > v [`README.md`](README.md) a [`PAPER.md`](PAPER.md).

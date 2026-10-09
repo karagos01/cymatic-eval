@@ -65,10 +65,29 @@ More than in any previous deposit by this author, and it is worth being specific
 ten deposits — a correct algebraic fact with a theorem-excluded one attached, and a
 historical attribution to Maxwell that appears exactly where octonions do — is
 absent. Counted over the extracted text, "Maxwell" occurs 0 times, "octonion" 0,
-"quaternion" 0, "hypercomplex" 0, "non-associative" 0, "tensor" 0 and "causal" 0 —
-the last of these for the first time in eleven deposits, the others for the first
-time in those that make an engineering claim. The whole vocabulary is gone, not
-relabelled. Whatever else is wrong here is wrong in a normal way.
+"quaternion" 0, "hypercomplex" 0, "non-associative" 0, "tensor" 0 and "causal" 0.
+The whole vocabulary is absent, not relabelled. Whatever else is wrong here is
+wrong in a normal way.
+
+> **Correction, 9 October 2026.** This section first said that "causal" was at zero
+> here "for the first time in eleven deposits". That was wrong twice over, and a
+> census run over all sixteen records in the companion
+> [`reference-audit`](https://github.com/karagos01/reference-audit) repository is
+> what caught it.
+>
+> "causal" was already 0 in openQL / openOL v1.0 of 3 October, two days before
+> this deposit. And all seven of the terms counted above are 0 in **COBAR**
+> (23 September) and in the **Topological Momentum Drive** (24 September), both of
+> which make engineering claims — so this deposit is neither the first with
+> "causal" at zero nor the first without the hypercomplex vocabulary.
+>
+> The correct reading is not a development over time but two interleaved groups.
+> Six of the sixteen records carry none of these terms — COBAR, Momentum Drive,
+> this one, Phytomining, Na-ion HFRS and Hemocyanin — while the other ten carry
+> them heavily, and the two groups alternate rather than succeed one another. The
+> counts for this deposit are unchanged; what was wrong was the claim to priority
+> built on them, and it was an artefact of comparing against ten deposits instead
+> of all of them.
 
 **The bibliography is real.** Four of the five references resolve exactly as
 printed: Müller, Li & Niyogi 2001 in *Plant Physiology* 125(4) 1558–1566; Hassanien,

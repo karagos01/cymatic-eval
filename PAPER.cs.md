@@ -67,9 +67,26 @@ depositů — správný algebraický fakt, k němuž je přilepený jeden vylou�
 a historická atribuce Maxwellovi, která se objevuje přesně tam, kde jsou oktoniony —
 tady chybí. Spočítáno nad extrahovaným textem: „Maxwell" nulakrát, „octonion"
 nulakrát, „quaternion" nulakrát, „hypercomplex" nulakrát, „non-associative"
-nulakrát, „tensor" nulakrát a „causal" nulakrát — to poslední poprvé v jedenácti
-depositech, ostatní poprvé v těch, které mají inženýrské tvrzení. Celý ten slovník
-je pryč, ne přeznačený. Co je tady špatně, je špatně normálním způsobem.
+nulakrát, „tensor" nulakrát a „causal" nulakrát. Celý ten slovník tam chybí, není přeznačený.
+Co je tady špatně, je špatně normálním způsobem.
+
+> **Oprava, 9. 10. 2026.** Tato sekce původně tvrdila, že „causal" je tady na nule
+> „poprvé v jedenácti depositech". To bylo špatně dvakrát a odhalil to census nad
+> všemi šestnácti záznamy v doprovodném repozitáři
+> [`reference-audit`](https://github.com/karagos01/reference-audit).
+>
+> „causal" bylo nulové už v openQL / openOL v1.0 z 3. října, dva dny před tímto
+> depositem. A všech sedm výše počítaných termínů je nulových v **COBARu**
+> (23. 9.) a v **Topological Momentum Drive** (24. 9.), což jsou oba inženýrská
+> tvrzení — takže tento deposit není ani první s nulovým „causal", ani první bez
+> hyperkomplexního slovníku.
+>
+> Správné čtení není vývoj v čase, ale dvě proložené skupiny. Šest ze šestnácti
+> záznamů nenese ani jeden z těch termínů — COBAR, Momentum Drive, tento,
+> fytomining, Na-ion HFRS a hemocyanin — zbylých deset je nese hustě, a ty dvě
+> skupiny se střídají, nejdou po sobě. Počty pro tento deposit se nemění; špatně
+> byl ten nárok na prvenství, který na nich stál, a byl to artefakt srovnání proti
+> deseti depositům místo proti všem.
 
 **Bibliografie je reálná.** Čtyři z pěti referencí se dohledají přesně, jak jsou
 vytištěné: Müller, Li a Niyogi 2001 v *Plant Physiology* 125(4) 1558–1566;

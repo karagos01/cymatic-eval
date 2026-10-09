@@ -19,9 +19,13 @@ three-bladed turbine's blade-pass frequency is 0.700 Hz where 61.72 Hz is wanted
 its whole broadband output is 22.5 dB short of the level the cited review works at,
 and a 50 Hz transformer core has no 61.72 Hz line to tune.
 
-This is the first of the author's eleven deposits with no hypercomplex algebra in
-it and the first with an almost entirely real bibliography; §1 of the write-up sets
-out what is correct before anything else.
+None of the author's hypercomplex vocabulary appears in this deposit, and it is
+the first with an almost entirely real bibliography; §1 of the write-up sets out
+what is correct before anything else. (§1 carried a correction on 9 October: it
+had claimed priority for the vocabulary being absent, which a census over all
+sixteen records in [`reference-audit`](https://github.com/karagos01/reference-audit)
+disproved -- COBAR and the Momentum Drive of September have none of those terms
+either.)
 
 ## Requirements
 
