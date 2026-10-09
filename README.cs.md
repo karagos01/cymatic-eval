@@ -98,6 +98,7 @@ proti naměřeným 40–45 dB(A) na 300 m.
 - [`xternary-eval`](https://github.com/karagos01/xternary-eval) — 2bitový inferenční engine pro LLM
 - [`causal-trilogy-eval`](https://github.com/karagos01/causal-trilogy-eval) — trilogie CQFT / PCTP / SOTP ze září 2026
 - [`openql-eval`](https://github.com/karagos01/openql-eval) — tenzorová maticová architektura openQL / openOL z října 2026
+- [`reference-audit`](https://github.com/karagos01/reference-audit) — jestli všech 69 citací ve všech 16 depositech říká to, pro co je citovaných
 
 ## Licence
 
